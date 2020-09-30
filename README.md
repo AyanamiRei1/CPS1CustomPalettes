@@ -19,6 +19,7 @@ Download the latest release:
 * In FBNeo Roms, there is a file called sf2ce.zip.
 * Drag the three files into sf2ce.zip. It will replace three existing files.
 * Open fightcade 2. You should see the palettes after selecting the alt colour.
+* Fightcade 2 will complain about CRC's being incorrect this is normal just press OK when it comes up.
 
  ![character select](images/ce.png)
 
@@ -33,7 +34,9 @@ Download the latest release:
 * In FBNeo Roms, there is a file called sf2hf.zip.
 * Drag the three files into sf2hf.zip. It will replace three existing files.
 * Open fightcade 2. You should see the new colours on the select screen.
+* Fightcade 2 will complain about CRC's being incorrect this is normal just press OK when it comes up.
  
 ![character select](images/hf.png)
 
 Do not use a save state to load, as that will show the classic capcom colours.
+
