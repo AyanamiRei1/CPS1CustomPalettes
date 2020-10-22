@@ -55,4 +55,6 @@ Download the latest release:
 
 ![character select](images/a2.png)
 
+ * [Palette preview for Alpha 2](roms/Fightcade/PreviewA2.7z?raw=true)
+
 Do not use a save state to load, as that will show the classic capcom colours.
