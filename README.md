@@ -49,7 +49,7 @@ Download the latest release:
 * The Alpha2.7z folder contains 2 files, named sz2u.07, and sz2u.08
 * Open your fightcade 2 roms folder. Inside it is a subfolder called FBNeo Roms. 
 * In FBNeo Roms, there is a file called sfa2u.zip.
-* Drag the three files into sfa2u.zip. It will replace three existing files.
+* Drag the three files into sfa2u.zip. It will replace two existing files.
 * Open fightcade 2. You should see the new colours once you've picked a colour.
 * Fightcade 2 will complain about CRC's being incorrect this is normal just press OK when it comes up.
 
