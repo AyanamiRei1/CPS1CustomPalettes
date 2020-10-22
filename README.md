@@ -40,6 +40,8 @@ Download the latest release:
 
 Do not use a save state to load, as that will show the classic capcom colours.
 
+# CPS2 Stuff
+
 ### Fightcade 2: Alpha 2
 Download the latest release:
  * [Latest Alpha 2 Patch](roms/Fightcade/Alpha2.7z?raw=true)
