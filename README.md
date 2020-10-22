@@ -44,7 +44,7 @@ Do not use a save state to load, as that will show the classic capcom colours.
 Download the latest release:
  * [Latest Alpha 2 Patch](roms/Fightcade/Alpha2.7z?raw=true)
 
-* The CE-2-HF.7z folder contains 2 files, named sz2u.07, and sz2u.08
+* The Alpha2.7z folder contains 2 files, named sz2u.07, and sz2u.08
 * Open your fightcade 2 roms folder. Inside it is a subfolder called FBNeo Roms. 
 * In FBNeo Roms, there is a file called sfa2u.zip.
 * Drag the three files into sfa2u.zip. It will replace three existing files.
