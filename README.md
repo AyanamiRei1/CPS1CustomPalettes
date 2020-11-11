@@ -34,6 +34,7 @@ Download the latest release:
 * In FBNeo Roms, there is a file called sf2hf.zip.
 * Drag the three files into sf2hf.zip. It will replace three existing files.
 * Open fightcade 2. You should see the new colours on the select screen.
+* Fightcade 2 will complain about CRC's being incorrect this is normal just press OK when it comes up.
  
 ![character select](images/hf.png)
 
@@ -50,7 +51,6 @@ Download the latest release:
 * In FBNeo Roms, there is a file called sfa2u.zip.
 * Drag the three files into sfa2u.zip. It will replace two existing files.
 * Open fightcade 2. You should see the new colours once you've picked a colour.
-* Fightcade 2 will complain about CRC's being incorrect this is normal just press OK when it comes up.
 
 ![character select](images/a2.png)
 
