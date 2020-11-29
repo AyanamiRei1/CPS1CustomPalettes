@@ -40,3 +40,20 @@ Download the latest release:
 
 Do not use a save state to load, as that will show the classic capcom colours.
 
+# CPS1 Remixes
+Hyper Fighting with a new coat of paint.
+
+### Fightcade 2: Hyper Fighting Colour Remix
+Download the latest release:
+ * [Latest Colour Remix Patch](roms/Fightcade/HFCR-29-11-2020.7z?raw=true)
+
+* The CE-2-HF.7z folder contains 3 files, named s2te_21.6f, s2te_22.7f and s2te_23.8f
+* Open your fightcade 2 roms folder. Inside it is a subfolder called FBNeo Roms. 
+* In FBNeo Roms, there is a file called sf2hf.zip.
+* Drag the three files into sf2hf.zip. It will replace three existing files.
+* Open fightcade 2. You should see the new colours on the select screen.
+* Full credit goes to Born2SPD and others behind https://newlegacy.fr/ for the character palettes.
+
+![character select](images/hfcr.png)
+
+Do not use a save state to load, as that will show the classic capcom colours.
