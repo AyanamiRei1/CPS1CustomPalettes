@@ -47,7 +47,7 @@ Hyper Fighting with a new coat of paint.
 Download the latest release:
  * [Latest Colour Remix Patch](roms/Fightcade/HFCR-29-11-2020.7z?raw=true)
 
-* The CE-2-HF.7z folder contains 3 files, named s2te_21.6f, s2te_22.7f and s2te_23.8f
+* The HFCR-29-11-2020.7z folder contains 3 files, named s2te_21.6f, s2te_22.7f and s2te_23.8f
 * Open your fightcade 2 roms folder. Inside it is a subfolder called FBNeo Roms. 
 * In FBNeo Roms, there is a file called sf2hf.zip.
 * Drag the three files into sf2hf.zip. It will replace three existing files.
