@@ -52,7 +52,7 @@ Download the latest release:
 * In FBNeo Roms, there is a file called sf2hf.zip.
 * Drag the three files into sf2hf.zip. It will replace three existing files.
 * Open fightcade 2. You should see the new colours on the select screen.
-* Full credit goes to Born2SPD and others behind https://newlegacy.fr/ for the character palettes.
+* Full credit goes to Born2SPD, Tyrone and Zass and others behind https://newlegacy.fr/ for the character palettes.
 
 ![character select](images/hfcr.png)
 
